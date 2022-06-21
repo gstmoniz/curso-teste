@@ -3,5 +3,6 @@
 > status: em desenvolvimento
 
 ```
-sudo apt install iputils-ping
+sudo apt install iputils-ping \
+&& node app.js
 ```
